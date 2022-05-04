@@ -1,4 +1,4 @@
-# DeepLizard_Keras
+# DeepLizard-Keras
 This repository contains the codes in the Keras with TensorFlow tutorial (link below) prepared by DeepLizard. 
 It was implemented on python instead of jupyter notebook and some changes were made for ease of calculation.
 
